@@ -8,7 +8,7 @@ I created this demo website to highlight some of React's capabilities and learn 
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm install`
 To install the dependencies necassary to run the program.
 
 ### `npm start`
