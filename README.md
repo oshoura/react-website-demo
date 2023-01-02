@@ -4,12 +4,16 @@ I created this demo website to highlight some of React's capabilities and learn 
 
 I built it following this [tutorial](https://www.youtube.com/watch?v=I2UBjN5ER4s)
 
+![screenshot 1](/public/screenshots/Screenshot%201.png)
+![screenshot 2](/public/screenshots/Screenshot%202.png)
+![screenshot 3](/public/screenshots/Screenshot%203.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
 
 ### `npm install`
-To install the dependencies necassary to run the program.
+To install the dependencies necessary to run the program.
 
 ### `npm start`
 
