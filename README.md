@@ -1,8 +1,8 @@
-# Simple Website Demo
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Simple React Website Demo
 
 I created this demo website to highlight some of React's capabilities and learn more about them.  Created a responsive website, with a header, footer, and a minimal yet modern UI. I used mostly ReactJS, and CSS.
+
+I built it following this [tutorial](https://www.youtube.com/watch?v=I2UBjN5ER4s)
 
 ## Available Scripts
 
